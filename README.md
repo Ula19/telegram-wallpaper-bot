@@ -1,4 +1,4 @@
-# bot_4_wallpaper
+# Wallhaven Telegram Bot
 
 Telegram-бот для поиска и отправки HD-обоев через Wallhaven API.
 
